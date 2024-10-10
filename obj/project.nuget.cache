@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IGy1BuJDVeE8p29W6JJ3Lu/qSLtztXNhTXHej7dSdWb3gXmlj2q3Cw8ehnU8JVfi0AdjsXog5/4HuW7YPP5mHg==",
+  "success": true,
+  "projectFilePath": "/Users/rylanstevens/programming 2024/lab-5-fractions-RylanStevens/lab-5-fractions-RylanStevens.csproj",
+  "expectedPackageFiles": [
+    "/Users/rylanstevens/.nuget/packages/nunit/4.2.2/nunit.4.2.2.nupkg.sha512",
+    "/Users/rylanstevens/.nuget/packages/nunit3testadapter/4.6.0/nunit3testadapter.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

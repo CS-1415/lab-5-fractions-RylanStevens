@@ -1,0 +1,12 @@
+/Users/rylanstevens/programming 2024/lab-5-fractions-RylanStevens/Lab05/bin/Debug/net8.0/Lab05.deps.json
+/Users/rylanstevens/programming 2024/lab-5-fractions-RylanStevens/Lab05/bin/Debug/net8.0/Lab05.dll
+/Users/rylanstevens/programming 2024/lab-5-fractions-RylanStevens/Lab05/bin/Debug/net8.0/Lab05.pdb
+/Users/rylanstevens/programming 2024/lab-5-fractions-RylanStevens/Lab05/obj/Debug/net8.0/Lab05.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rylanstevens/programming 2024/lab-5-fractions-RylanStevens/Lab05/obj/Debug/net8.0/Lab05.AssemblyInfoInputs.cache
+/Users/rylanstevens/programming 2024/lab-5-fractions-RylanStevens/Lab05/obj/Debug/net8.0/Lab05.AssemblyInfo.cs
+/Users/rylanstevens/programming 2024/lab-5-fractions-RylanStevens/Lab05/obj/Debug/net8.0/Lab05.csproj.CoreCompileInputs.cache
+/Users/rylanstevens/programming 2024/lab-5-fractions-RylanStevens/Lab05/obj/Debug/net8.0/Lab05.sourcelink.json
+/Users/rylanstevens/programming 2024/lab-5-fractions-RylanStevens/Lab05/obj/Debug/net8.0/Lab05.dll
+/Users/rylanstevens/programming 2024/lab-5-fractions-RylanStevens/Lab05/obj/Debug/net8.0/refint/Lab05.dll
+/Users/rylanstevens/programming 2024/lab-5-fractions-RylanStevens/Lab05/obj/Debug/net8.0/Lab05.pdb
+/Users/rylanstevens/programming 2024/lab-5-fractions-RylanStevens/Lab05/obj/Debug/net8.0/ref/Lab05.dll

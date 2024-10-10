@@ -1,0 +1,5 @@
+/Users/rylanstevens/programming 2024/lab-5-fractions-RylanStevens/obj/Debug/net8.0/lab-5-fractions-RylanStevens.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rylanstevens/programming 2024/lab-5-fractions-RylanStevens/obj/Debug/net8.0/lab-5-fractions-RylanStevens.AssemblyInfoInputs.cache
+/Users/rylanstevens/programming 2024/lab-5-fractions-RylanStevens/obj/Debug/net8.0/lab-5-fractions-RylanStevens.AssemblyInfo.cs
+/Users/rylanstevens/programming 2024/lab-5-fractions-RylanStevens/obj/Debug/net8.0/lab-5-fractions-RylanStevens.csproj.CoreCompileInputs.cache
+/Users/rylanstevens/programming 2024/lab-5-fractions-RylanStevens/obj/Debug/net8.0/lab-5-fractions-RylanStevens.sourcelink.json

@@ -1,0 +1,8 @@
+/Users/rylanstevens/programming 2024/lab-5-fractions-RylanStevens/Lab05.Tests/bin/Debug/net8.0/.msCoverageSourceRootsMapping_Lab05.Tests
+/Users/rylanstevens/programming 2024/lab-5-fractions-RylanStevens/Lab05.Tests/bin/Debug/net8.0/CoverletSourceRootsMapping_Lab05.Tests
+/Users/rylanstevens/programming 2024/lab-5-fractions-RylanStevens/Lab05.Tests/obj/Debug/net8.0/Lab05.Tests.csproj.AssemblyReference.cache
+/Users/rylanstevens/programming 2024/lab-5-fractions-RylanStevens/Lab05.Tests/obj/Debug/net8.0/Lab05.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rylanstevens/programming 2024/lab-5-fractions-RylanStevens/Lab05.Tests/obj/Debug/net8.0/Lab05.Tests.AssemblyInfoInputs.cache
+/Users/rylanstevens/programming 2024/lab-5-fractions-RylanStevens/Lab05.Tests/obj/Debug/net8.0/Lab05.Tests.AssemblyInfo.cs
+/Users/rylanstevens/programming 2024/lab-5-fractions-RylanStevens/Lab05.Tests/obj/Debug/net8.0/Lab05.Tests.csproj.CoreCompileInputs.cache
+/Users/rylanstevens/programming 2024/lab-5-fractions-RylanStevens/Lab05.Tests/obj/Debug/net8.0/Lab05.Tests.sourcelink.json
